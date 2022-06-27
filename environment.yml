@@ -1,8 +1,12 @@
-name: cookbook-dev
+name: HRRR-AWS-cookbook-dev
 channels:
   - conda-forge
 dependencies:
   - jupyter-book
+  - dask
+  - metpy
+  - zarr
+  - s3fs
   - pip
   - pip:
       - sphinx-pythia-theme

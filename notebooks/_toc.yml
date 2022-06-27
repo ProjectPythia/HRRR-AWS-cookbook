@@ -1,6 +1,6 @@
 format: jb-book
 root: landing-page
 parts:
-  - caption: Introduction
+  - caption: Example Workflows
     chapters:
-      - file: notebook-template
+      - file: example-workflows/2mT
