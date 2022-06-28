@@ -1,7 +1,7 @@
 # Cookbook Template
 
-[![build-book](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/build-book.yaml/badge.svg)](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/build-book.yaml)
-[![link-checker](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/link-checker.yaml/badge.svg)](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/link-checker.yaml)
+[![nightly-build](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml)
+
 [![Binder](https://binder-staging.2i2c.cloud/badge_logo.svg)](https://binder-staging.2i2c.cloud/v2/gh/ProjectPythiaCookbooks/HRRR-AWS-cookbook.git/main)
 
 This is a template for creating [Project Pythia](https://projectpythia.org) Cookbooks.
