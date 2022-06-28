@@ -1,3 +1,5 @@
+<img src="thumbnail.svg" alt="thumbnail" width="300"/>
+
 # Cookbook Template
 
 [![nightly-build](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml)
