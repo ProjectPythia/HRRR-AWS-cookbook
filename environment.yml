@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - jupyter-book
+  - jupyterlab
   - dask
   - metpy
   - zarr
