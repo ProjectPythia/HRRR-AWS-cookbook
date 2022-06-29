@@ -1,6 +1,6 @@
-<img src="thumbnail.svg" alt="thumbnail" width="300"/>
+# HRRR on AWS Cookbook
 
-# Cookbook Template
+<img src="thumbnail.svg" alt="thumbnail" width="400"/>
 
 [![nightly-build](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml)
 
