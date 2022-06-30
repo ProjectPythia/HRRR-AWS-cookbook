@@ -12,8 +12,9 @@ tags:
   domains:
     - HRRR model
     - AWS cloud
+    - zarr
   packages:
-    - 
+    - xarray
     
 # Execute the notebooks upon building the book?
 # See https://jupyterbook.org/en/stable/content/execute.html
