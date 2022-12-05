@@ -2,9 +2,9 @@
 
 <img src="thumbnail.svg" alt="thumbnail" width="400"/>
 
-[![nightly-build](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml)
+[![nightly-build](https://github.com/ProjectPythia/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml)
 
-[![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ProjectPythiaCookbooks/HRRR-AWS-cookbook.git/main)
+[![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ProjectPythia/HRRR-AWS-cookbook.git/main)
 
 In this Project Pythia Cookbook, you will access and create a map from archived data from NCEP's High-Resolution Rapid Refresh (HRRR) model, which is served in an S3 bucket on AWS.
 
@@ -25,8 +25,8 @@ Throughout this cookbook, we build on the core foundational Python material cove
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythiaCookbooks/HRRR-AWS-cookbook" />
+<a href="https://github.com/ProjectPythia/HRRR-AWS-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/HRRR-AWS-cookbook" />
 </a>
 
 ## Structure
@@ -70,9 +70,9 @@ Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyt
 ### Running on Your Own Machine
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
-1. Clone the ["HRRR-AWS-cookbook"](https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook) repository
+1. Clone the ["HRRR-AWS-cookbook"](https://github.com/ProjectPythia/HRRR-AWS-cookbook) repository
     ```bash
-    git clone https://github.com/ProjectPythiaCookbooks/HRRR-AWS-cookbook.git
+    git clone https://github.com/ProjectPythia/HRRR-AWS-cookbook.git
     ```
 
 2. Move into the `HRRR-AWS-cookbook` directory
