@@ -17,9 +17,11 @@ tags:
   packages:
     - xarray
     
-# Execute the notebooks on binder!
+# Execute the notebooks upon building the book (don't use binderbot)
 execute:
-  execute_notebooks: binder
+  execute_notebooks: cache
+  timeout: 600
+  allow_errors: True
 
 # Add a few extensions to help with parsing content
 parse:
