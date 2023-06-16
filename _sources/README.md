@@ -47,12 +47,12 @@ Here, we **apply** the lessons learned in the foundational material to various a
 1. **Currently under development** Plot a sequence of forecast maps for the most recent run of the HRRR
 
 ## Running the Notebooks
-You can either run the notebook using [Binder](https://mybinder.org/) or on your local machine.
+You can either run the notebook using [Binder](https://binder.projectpythia.org/) or on your local machine.
 
 ### Running on Binder
 
 The simplest way to interact with a Jupyter Notebook is through
-[Binder](https://mybinder.org/), which enables the execution of a
+[Binder](https://binder.projectpythia.org/), which enables the execution of a
 Jupyter Book in the cloud. The details of how this works are not
 important for now. All you need to know is how to launch a Pythia
 Foundations book chapter via Binder. Simply navigate your mouse to
