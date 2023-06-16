@@ -19,9 +19,10 @@ tags:
     
 # Execute the notebooks upon building the book (don't use binderbot)
 execute:
+  # To execute notebooks via a binder instead, replace 'cache' with 'binder'
   execute_notebooks: cache
   timeout: 600
-  allow_errors: True
+  allow_errors: False # cells with expected failures must set the `raises-exception` cell tag
 
 # Add a few extensions to help with parsing content
 parse:
@@ -38,6 +39,8 @@ parse:
 
 sphinx:
   config:
+    linkcheck_ignore: ["https://doi.org/*",]
+    nb_execution_raise_on_error: true  # raise exception in build if there are notebook errorshtml_favicon: notebooks/images/icons/favicon.ico
     html_favicon: notebooks/images/icons/favicon.ico
     html_last_updated_fmt: '%-d %B %Y'
     html_theme: sphinx_pythia_theme
