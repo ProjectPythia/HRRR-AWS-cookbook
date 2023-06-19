@@ -2,6 +2,7 @@ name: HRRR-AWS-cookbook-dev
 channels:
   - conda-forge
 dependencies:
+  - python>=3.10
   - jupyter-book
   - jupyterlab
   - dask
