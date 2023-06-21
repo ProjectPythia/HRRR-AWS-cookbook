@@ -4,6 +4,7 @@
 
 [![nightly-build](https://github.com/ProjectPythia/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/HRRR-AWS-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/HRRR-AWS-cookbook.git/main)
+[![DOI](https://zenodo.org/badge/507993773.svg)](https://zenodo.org/badge/latestdoi/507993773)
 
 In this Project Pythia Cookbook, you will access and create a map from archived data from NCEP's High-Resolution Rapid Refresh (HRRR) model, which is served in an S3 bucket on AWS.
 
