@@ -4,6 +4,6 @@ authors:
   - family-names: Tyle
     given-names: Kevin
     orcid: https://orcid.org/0000-0001-5249-9665
- - name: "HRRR-AWS contributors"
-   website: "https://github.com/ProjectPythia/HRRR-AWS-Cookbook/graphs/contributors"
+  - name: "HRRR-AWS contributors"
+    website: "https://github.com/ProjectPythia/HRRR-AWS-Cookbook/graphs/contributors"
 title: 'HRRR-AWS-Cookbook'
