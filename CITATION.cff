@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: 'If you use this resource, please cite it as below.'
+authors:
+  - family-names: Tyle
+    given-names: Kevin
+    orcid: https://orcid.org/0000-0001-5249-9665
+title: 'HRRR-AWS-Cookbook'
+version: v2023.05.01
+date-released: 2023-06-01
