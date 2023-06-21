@@ -1,6 +1,9 @@
 format: jb-book
 root: README
 parts:
+  - caption: Preamble
+    chapters:
+      - file: how-to-cite
   - caption: Example Workflows
     chapters:
       - file: notebooks/example-workflows/2mT
