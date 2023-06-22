@@ -1,0 +1,8 @@
+thumbnail: thumbnail.png
+tags:
+  domains:
+    - HRRR model
+    - AWS cloud
+    - zarr
+  packages:
+    - xarray
