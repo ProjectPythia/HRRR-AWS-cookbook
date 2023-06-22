@@ -9,4 +9,6 @@ authors:
     affiliation: University at Albany (State University of New York)  # optional
   - name: "HRRR-AWS Cookbook contributors"  # use the 'name' field to acknowledge organizations 
     website: "https://github.com/ProjectPythia/HRRR-AWS-Cookbook/graphs/contributors"
-title: 'HRRR-AWS-Cookbook'
+title: 'HRRR AWS Cookbook'
+abtract: "A cookbook for working with AWS-served HRRR model output data."
+
