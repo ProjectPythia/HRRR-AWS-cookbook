@@ -9,6 +9,4 @@ dependencies:
   - metpy
   - zarr
   - s3fs
-  - pip
-  - pip:
-      - sphinx-pythia-theme
+  - sphinx-pythia-theme
