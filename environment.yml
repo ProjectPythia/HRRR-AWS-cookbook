@@ -7,6 +7,6 @@ dependencies:
   - jupyterlab
   - dask
   - metpy
-  - zarr
+  - zarr<3
   - s3fs
   - sphinx-pythia-theme
