@@ -1,0 +1,34 @@
+version: 1
+extends:
+  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
+project:
+  title: HRRR-AWS Cookbook
+  github: https://github.com/projectpythia/HRRR-AWS-cookbook
+  authors:
+    - name: Kevin Tyle
+      affiliations:
+        - University at Albany
+        - Project Pythia
+      orcid: 0000-0001-5249-9665
+      email: ktyle@albany.edu
+      twitter: nywxguy
+      bluesky: https://bsky.app/profile/nywxguy.bsky.social
+    - name: The Project Pythia Community
+  copyright: '2025'
+  toc:
+  - file: README.md
+  - title: Preamble
+    children:
+      - file: notebooks/how-to-cite.md
+  - title: Example Workflows
+    children:
+      - file: notebooks/example-workflows/plot-2mt.ipynb
+  jupyter:
+      binder:
+        repo: projectpythia/HRRR-AWS-cookbook
+site:
+  options:
+    logo: notebooks/images/logos/pythia_logo-white-rtext.svg
+    folders: true
+  template: book-theme
+
