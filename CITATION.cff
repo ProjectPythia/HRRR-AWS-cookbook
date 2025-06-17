@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this cookbook, please cite it as below."
+authors:
+  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+  - family-names: Tyle
+    given-names: Kevin
+    orcid: https://orcid.org/0000-0001-5249-9665 # optional
+    website: https://github.com/ktyle # optional
+    affiliation: University at Albany (State University of New York) # optional
+  - name: "HRRR-AWS Cookbook contributors" # use the 'name' field to acknowledge organizations
+    website: "https://github.com/ProjectPythia/HRRR-AWS-Cookbook/graphs/contributors"
+title: "HRRR AWS Cookbook"
+abstract: "A cookbook for working with AWS-served HRRR model output data."

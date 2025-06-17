@@ -26,3 +26,9 @@ project:
   jupyter:
       binder:
         repo: projectpythia/HRRR-AWS-cookbook
+site:
+  options:
+    logo: notebooks/images/logos/pythia_logo-white-rtext.svg
+    folders: true
+  template: book-theme
+
