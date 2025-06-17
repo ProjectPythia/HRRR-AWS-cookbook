@@ -1,12 +1,12 @@
-name: HRRR-AWS-cookbook-dev
+name: HRRR-AWS-cookbook
 channels:
   - conda-forge
 dependencies:
-  - python<3.13  # to avoid a dependency conflict with JupyterBook 1.0.3
   - jupyter-book
   - jupyterlab
+  - jupyterlab-myst
   - dask
   - metpy
   - zarr
   - s3fs
-  - sphinx-pythia-theme
+  - mystmd

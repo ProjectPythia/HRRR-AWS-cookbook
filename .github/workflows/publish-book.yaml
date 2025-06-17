@@ -9,11 +9,11 @@ on:
 
 jobs:
   build:
-    uses: ktyle/cookbook-actions/.github/workflows/build-book.yaml@main
+    uses: ProjectPythia/cookbook-actions/.github/workflows/build-book.yaml@main
     with:
-      environment_name: HRRR-AWS-cookbook-dev
-      
+      build_command: 'myst build --execute --html'
+
+
   deploy:
     needs: build
-    uses: ktyle/cookbook-actions/.github/workflows/deploy-book.yaml@main
-  
+    uses: ProjectPythia/cookbook-actions/.github/workflows/deploy-book.yaml@main
