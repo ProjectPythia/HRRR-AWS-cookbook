@@ -17,7 +17,7 @@ Once you go through this material, you will have mastered the following skills:
 1. Familiarized yourself with the Zarr data representation model, and why it is an optimal format for data stored on S3
 1. Access, analyze, and visualize gridded fields from the HRRR
 
-Throughout this cookbook, we build on the core foundational Python material covered in the [Foundations Book](https://foundations.projectpythia.org/landing-page.html)
+Throughout this cookbook, we build on the core foundational Python material covered in the [Foundations Book](https://foundations.projectpythia.org)
 
 ## Authors
 
@@ -65,7 +65,7 @@ and even change the example programs. You’ll see that the code cells
 have no output at first, until you execute them by pressing
 `Shift` `Enter`. Complete details on how to interact with
 a live Jupyter notebook are described in [Getting Started with
-Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html).
+Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter).
 
 ### Running on Your Own Machine
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
@@ -92,4 +92,4 @@ If you are interested in running this material locally on your computer, you wil
     jupyter lab
     ```
 
-At this point, you can interact with the notebooks! Make sure to check out the ["Getting Started with Jupyter"](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html) content from the [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html) material if you are new to Jupyter or need a refresher.
+At this point, you can interact with the notebooks! Make sure to check out the ["Getting Started with Jupyter"](https://foundations.projectpythia.org/foundations/getting-started-jupyter) content from the [Pythia Foundations](https://foundations.projectpythia.org) material if you are new to Jupyter or need a refresher.
